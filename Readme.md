@@ -12,4 +12,4 @@ Using your CSS Grid skills, recreate the blog page in the reference image below
 
 ## The online version
 
-In order to see live version, just [click...!]()
+[click...!](https://silvaoscar.github.io/Blog/)
