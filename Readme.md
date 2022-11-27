@@ -2,11 +2,6 @@
 
 Using your CSS Grid skills, recreate the blog page in the reference image below
 
-## Requirements
-- Use the images from the included **`images` directory**
-- Use the text content from the included **`content.txt` file**
-- Match the layout pixel by pixel as closely as possible
-
 ![Desktop](./layout_images/desktop.png "desktop version")
 
 ## Layout design
