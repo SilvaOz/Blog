@@ -17,4 +17,4 @@ Using your CSS Grid skills, recreate the blog page in the reference image below
 
 ## The online version
 
-In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Layout_Grid_Exercise-2/)
+In order to see live version, just [click...!]()
