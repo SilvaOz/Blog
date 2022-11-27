@@ -10,6 +10,4 @@ Using your CSS Grid skills, recreate the blog page in the reference image below
 
 - As a bonus, make the site fully responsive
 
-## The online version
-
 [click...!](https://silvaoscar.github.io/Blog/)
